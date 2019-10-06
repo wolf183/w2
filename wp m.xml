@@ -1,0 +1,131 @@
+<dir>
+<title>1 Play</title>
+<link>https://raw.githubusercontent.com/darkseid12/new/master/1%20play.xml</link>
+</dir>
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+ <dir>
+        <title>New Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/11931</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/momoney12/run/master/tmdbyear2.xml</link>
+</dir>
+
+ <dir>
+        <title>Action and Sci-Fi Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/122369</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Action Drama Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/122899</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+
+ <dir>
+        <title>Ultimate Animated Collection Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/122037</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Urban Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121709</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+
+ <dir>
+        <title>Medieval Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121727</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Knight Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121812</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+
+ <dir>
+        <title>Rome Gladiator Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121823</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Viking Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121724</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+
+ <dir>
+        <title>Vampire Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121820</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Dragon Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/121821</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Disaster movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63722</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Which movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63847</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+ <dir>
+        <title>Assassin movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63741</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+
+<dir>
+<title>hostage and kidnap</title>
+<tmdb>list/63739</tmdb>
+</dir>
+
+
+<dir>
+<title>suspense</title>
+<tmdb>list/63312</tmdb>
+</dir>
+
+<dir>
+        <title>Sniper Movies</title>
+        <tmdb>list/63189</tmdb>
+        <thumbnail>https://wallpaperstock.net/3d-robot%2C-fighter_wallpapers_55288_1920x1080.jpg</thumbnail>
+        <fanart></fanart>
+</dir>

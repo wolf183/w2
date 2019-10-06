@@ -1,0 +1,52 @@
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/wolf183/gang/master/wp m.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/wolf183/gang/master/wp%20tv.xml</link>
+</dir>
+<dir>
+   <title>Music</title>
+   <link>https://raw.githubusercontent.com/timeless69/wolf/master/w%20mic.xml</link>
+</dir>
+
+<dir>
+   <title>Movies boxset</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
+</dir>
+
+<dir>
+   <title>Productions and Directors.xml</title>
+   <link>https://raw.githubusercontent.com/timeless69/wolf/master/Productions%20and%20Directors.xml</link>
+</dir>
+
+  <dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/timeless69/wolf/master/movies247.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>247 TV</title>
+    <link>https://raw.githubusercontent.com/timeless69/wolf/master/247-tv%20(1).xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Upcoming Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+</dir>
+
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.wolf?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>

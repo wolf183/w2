@@ -1,0 +1,58 @@
+<dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+  <title>Netflix Shows</title>
+  <tmdb>network/shows/213</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+<title>Tv Shows I Like</title>
+<tmdb>list/https://www.themoviedb.org/list/121765</tmdb>
+</dir>
+<dir>
+<title>Marvel Tv</title>
+<tmdb>list/https://www.themoviedb.org/list/120595</tmdb>
+</dir>
+<dir>
+<title> Ultimate Animated Collection Tv Showes</title>
+<tmdb>list/https://www.themoviedb.org/list/122039</tmdb>
+</dir>
+<dir>
+<title>Medieval Tv Shows</title>
+<tmdb>list/https://www.themoviedb.org/list/121714</tmdb>
+</dir>
+<dir>
+<title>Urban Tv Shows</title>
+<tmdb>list/https://www.themoviedb.org/list/121651</tmdb>
+</dir>
+<dir>
+<title>game shows</title>
+<tmdb>list/https://www.themoviedb.org/list/97970</tmdb>
+</dir>
+<dir>
+<title>Western</title>
+<tmdb>list/https://www.themoviedb.org/list/97972</tmdb>
+</dir>
+
+<dir>
+    <title>Most Popular TV Shows</title>
+    <imdburl>charttv/tvmeter</imdburl>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</dir>
+
+ <dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
